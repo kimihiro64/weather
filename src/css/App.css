@@ -1,0 +1,21 @@
+/* Would normally not use any .css files for larger projects. Tend to use style attributes and styles.js files for more configurable/reusable styling */
+
+.App {
+  text-align: center;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.weatherIcon {
+	height: 50;
+}
+
+.temperature {
+	font-weight: bold;
+}
+
+.link {
+	text-decoration: underline;
+}
